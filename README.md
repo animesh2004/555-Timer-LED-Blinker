@@ -53,24 +53,6 @@ The main aim of this project is to:
 
 ---
 
-## 🖼️ Project Structure
-
-```
-555-Blinker-PCB/
-|├──555_Blinker.kicad_pro
-|├──555_Blinker.kicad_sch
-|├──555_Blinker.kicad_pcb
-|├──Images/
-|   └──render_3D.png
-|├──Production/
-|   └──Gerbers, BOM, Pick&Place files
-|└──Docs/
-    ├──README.md
-    └──Schematic.pdf
-```
-
----
-
 ## 🖥️ Getting Started
 
 1. Open `555_Blinker.kicad_pro` in KiCad.
