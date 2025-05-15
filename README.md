@@ -96,30 +96,11 @@ The main aim of this project is to:
 
 ---
 
-## 🎨 Visual Preview
-
-> ![3D View](./Images/render_3D.png)
-
----
 
 ## 🧑‍💻 Author Info
 
 **Designed by:** Animesh Tripathi
 **GitHub:** [github.com/animeshtripathi779](https://github.com/animeshtripathi779)
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 🌟 Future Enhancements
-
-* Add multiple LEDs with sequencing.
-* Integrate button to toggle blinking.
-* Build a wearable version.
 
 ---
 
